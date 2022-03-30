@@ -1,0 +1,7 @@
+*.o
+*.a
+src/lua
+src/luac
+.cache/
+compile_commands.json
+a.out
